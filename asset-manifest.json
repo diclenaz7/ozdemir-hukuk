@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ozdemir-hukuk/static/css/main.378c2db6.css",
+    "main.js": "/ozdemir-hukuk/static/js/main.0f5ba156.js",
+    "static/media/img-1.png": "/ozdemir-hukuk/static/media/img-1.6de5676d14ab464981a6.png",
+    "static/media/img-3.png": "/ozdemir-hukuk/static/media/img-3.6de5676d14ab464981a6.png",
+    "static/media/img-2.jpg": "/ozdemir-hukuk/static/media/img-2.7b941ebc8ad3d3e161d1.jpg",
+    "index.html": "/ozdemir-hukuk/index.html",
+    "main.378c2db6.css.map": "/ozdemir-hukuk/static/css/main.378c2db6.css.map",
+    "main.0f5ba156.js.map": "/ozdemir-hukuk/static/js/main.0f5ba156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.378c2db6.css",
+    "static/js/main.0f5ba156.js"
+  ]
+}

@@ -1,6 +1,9 @@
 import React from "react";
 import "./Cards.css";
 import CardItem from "./CardItem";
+import beyhan from "../images/beyhan.jpeg"
+import metin from "../images/metin.jpeg"
+
 
 function Cards() {
   return (
@@ -10,9 +13,15 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="images/img-1.png"
+              src={beyhan}
               text="Av. Beyhan Özdemir"
               text2="avbeyhanozdemir@gmail.com"
+              label="Avukat"
+              path="/services"
+            />
+            <CardItem
+              src={metin}
+              text="Av. Cevdet Metin Özdemir"
               label="Avukat"
               path="/services"
             />
@@ -24,14 +33,14 @@ function Cards() {
             />
             <CardItem
               src="images/img-3.png"
-              text="Person3"
-              label="Ünvan"
+              text="Av. Deniz Kaşkaloğlu"
+              label="Avukat"
               path="/services"
             />
             <CardItem
               src="images/img-3.png"
-              text="Ünvan"
-              label="Mystery"
+              text="Songül Öz"
+              label="Asistan"
               path="/services"
             />
           </ul>

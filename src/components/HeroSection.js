@@ -6,7 +6,7 @@ import "./HeroSection.css";
 function HeroSection() {
   return (
     <div className="hero-container">
-      <img className="background" alt="Background" src="images/img-5.jpg" />
+      <img className="background" alt="Background" src="../../images/img-1.jpg" />
       <h1>ÖZDEMİR HUKUK BÜROSU</h1>
       <p>Hukuk ve Danışmanlık</p>
       <div className="hero-btns">

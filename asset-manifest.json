@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ozdemir-hukuk/static/css/main.0768646c.css",
-    "main.js": "/ozdemir-hukuk/static/js/main.2b938b5c.js",
+    "main.js": "/ozdemir-hukuk/static/js/main.a7e7e78e.js",
     "static/media/img-5.jpg": "/ozdemir-hukuk/static/media/img-5.e8031fd7f4e49782a248.jpg",
     "static/media/beyhan.jpeg": "/ozdemir-hukuk/static/media/beyhan.9775ff5823539ae9c599.jpeg",
     "static/media/metin.jpeg": "/ozdemir-hukuk/static/media/metin.c28574866373c6c463cc.jpeg",
@@ -12,10 +12,10 @@
     "static/media/homer.jpg": "/ozdemir-hukuk/static/media/homer.acd972178072d11efc95.jpg",
     "index.html": "/ozdemir-hukuk/index.html",
     "main.0768646c.css.map": "/ozdemir-hukuk/static/css/main.0768646c.css.map",
-    "main.2b938b5c.js.map": "/ozdemir-hukuk/static/js/main.2b938b5c.js.map"
+    "main.a7e7e78e.js.map": "/ozdemir-hukuk/static/js/main.a7e7e78e.js.map"
   },
   "entrypoints": [
     "static/css/main.0768646c.css",
-    "static/js/main.2b938b5c.js"
+    "static/js/main.a7e7e78e.js"
   ]
 }
